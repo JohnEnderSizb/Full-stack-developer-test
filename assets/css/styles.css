@@ -1,0 +1,28 @@
+@font-face {
+    font-family: CaslonMedium;
+    src: url("../fonts/Big Caslon Medium.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: BrownStdBold;
+    src: url("../fonts/BrownStd-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: BrownStdLight;
+    src: url("../fonts/BrownStd-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: BrownStdRegular;
+    src: url("../fonts/BrownStd-Regular.otf") format("opentype");
+}
+
+body {
+    font-family: 'BrownStdRegular', serif;
+    font-size: 18px;
+}
+
+p {
+    font-family: BrownStdLight;
+}
